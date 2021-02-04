@@ -1,0 +1,129 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: #181818;
+}
+
+h2 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+td{
+  padding-right: 10%;
+}
+
+/* Title */
+.bg {
+  background: url('../images/bg.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.title-header {
+  color: white;
+}
+
+.title-header h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: 900;
+  margin: 300px 0 0 0;
+}
+
+.title-header h2 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+/* Intro and skills */
+
+.middle-container {
+  background-color: #181818;
+}
+
+.dp {
+  width: 15%;
+  margin-top: 100px;
+}
+
+.skill-bar {
+  margin: auto
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  color: #fff;
+}
+.table-row{
+  margin:5px;
+}
+
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+/* Footer */
+
+.bottom-container {
+  background-color: #363333;
+  padding: 20px 0 10px;
+  margin-top: 100px;
+  position: absolute;
+  width: 100%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-container p{
+  padding:1%;
+  font-size: 0.75rem;
+}
+.fab{
+  color: white;
+}
