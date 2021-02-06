@@ -13,7 +13,7 @@ h2 {
   padding-bottom: 10px;
 }
 
-h3 {
+h3,h4 {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
 }
@@ -60,6 +60,7 @@ td {
   bottom: 8px;
   left: 2px;
   font-size: 0.6rem;
+  color: #fff;
 }
 
 .title-header {
@@ -104,6 +105,10 @@ td {
   margin: 100px auto 100px auto;
   text-align: left;
   color: #fff;
+}
+.framework{
+  padding: 8% 0 4% 0;
+  text-align: center;
 }
 
 .table-row {
