@@ -109,6 +109,7 @@ td {
 	text-align: left;
 	color: #fff;
 }
+
 .framework {
 	padding: 8% 0 4% 0;
 	text-align: center;
@@ -145,4 +146,8 @@ td {
 
 .fab {
 	color: white;
+}
+
+.container {
+	max-width: 500px;
 }
