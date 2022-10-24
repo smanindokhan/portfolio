@@ -36,8 +36,11 @@ hr {
 a {
 	color: #11999e;
 	font-family: 'Montserrat', sans-serif;
-	margin: 10px 20px;
 	text-decoration: none;
+}
+
+li.a {
+	font-size: 1px;
 }
 
 a:hover {
@@ -154,4 +157,11 @@ td {
 
 .cont_form {
 	max-width: 500px !important;
+}
+
+.footer-link {
+	color: #11999e;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
 }
